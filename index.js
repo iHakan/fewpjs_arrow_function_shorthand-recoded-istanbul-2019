@@ -1,5 +1,5 @@
 let divide = function(){return 2000/100}
 
-let square = num => square**num;
+let square = (num) => {return square**num};
 
 let add = (a,b) => a+b; 
